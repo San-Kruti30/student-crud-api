@@ -1,4 +1,6 @@
-venv/
-.env
---pycache--/
+__pycache__/
 *.pyc
+venv/
+.venv/
+*.db
+.env
